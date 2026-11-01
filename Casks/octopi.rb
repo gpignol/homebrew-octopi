@@ -1,6 +1,6 @@
 cask "octopi" do
-  version "0.21.1"
-  sha256 "b7198e899c3f29505c69ca2addade0050ea02c2e1265afe85c4f42f140f67894"
+  version "0.22.1"
+  sha256 "a758ee7e7d18403ca0b1d35db04a664dad44bcaba2b1b7abfbe2407e6f4226cd"
 
   url "https://github.com/gpignol/octopi-releases/releases/download/v#{version}/Octopi-#{version}.dmg",
       verified: "github.com/gpignol/octopi-releases/"
