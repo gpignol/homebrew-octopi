@@ -17,7 +17,7 @@ cask "octopi" do
   end
 
   auto_updates true          # the app updates itself in place via its appcast
-  depends_on macos: ">= :monterey"
+  depends_on macos: ">= :sonoma"
 
   app "Octopi.app"
 
